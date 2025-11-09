@@ -1,5 +1,6 @@
 # Streamlit Brainboost Education Chatbot
-![alt text]("C:\Users\ASUS\Pictures\Screenshots\UI-Brainboost-chatbot.png")
+![image text](https://github.com/Arumcahya/brainboost-chatbot/blob/2ab877e5af6ff937611126ac049e2241f31fda0b/ui-brainboost-chatbot.png)
+
 
 ## Getting Started
 
